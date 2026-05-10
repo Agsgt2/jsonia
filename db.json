@@ -2,10 +2,20 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Hello, World!",
+      "user": "Agzgt1"
+    },
+    {
+      "id": 2,
+      "title": "Cute sunset!",
+      "image": "sunset.png",
+      "user": {
+        "owner": "Agzgt1",
+        "organization": "MintSite"
+      }
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Agzgt2"
   }
 }
